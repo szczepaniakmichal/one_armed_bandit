@@ -16,7 +16,7 @@ class Wallet {
             } else {
                 throw new Error('incorrect data');
             }
-        }
+        };
 
         this.changeWalletValue = (value, type = "-") => {
             if (typeof value === "number" && !isNaN(value) ) {
