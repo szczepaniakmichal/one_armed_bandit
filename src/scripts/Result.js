@@ -13,4 +13,4 @@ class Result {
     }
 }
 
-Result.moneyWinInGame(true, 5);
+// Result.moneyWinInGame(true, 5);
