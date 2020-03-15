@@ -12,5 +12,3 @@ class Result {
         }
     }
 }
-
-// Result.moneyWinInGame(true, 5);

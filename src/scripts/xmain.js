@@ -1,1 +1,1 @@
-const game = new XGame(100);
+const game = new XGame(10000);
